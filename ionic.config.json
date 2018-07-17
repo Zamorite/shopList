@@ -1,6 +1,6 @@
 {
   "name": "shopList",
-  "app_id": "",
+  "app_id": "38194187",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}

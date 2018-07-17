@@ -1,0 +1,15 @@
+page-new {
+
+    input[type*='text'] {
+        width: 100px !important;
+    }
+
+    input.text-input.text-input-wp {
+        border: none;
+    }
+
+    .right {
+        position: absolute;
+        right: 10px;
+    }
+}
